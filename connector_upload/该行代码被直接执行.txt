@@ -1,0 +1,1 @@
+<!-- echo "<script>document.getElementsByTagName("form")[0].remove()</script>"; //会导致报错崩溃 (footer)-->
